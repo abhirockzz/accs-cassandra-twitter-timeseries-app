@@ -1,0 +1,19 @@
+{
+"instances":1,
+"memory":"2G",
+"environment": {
+"TWITTER_CONSUMER_KEY":"<as per your setup>",
+"TWITTER_CONSUMER_SECRET":"<as per your setup>",
+"TWITTER_ACCESS_TOKEN":"565672040-<as per your setup>",
+"TWITTER_ACCESS_TOKEN_SECRET":"<as per your setup>",
+"TWITTER_TRACKED_TERMS":"nosql,cloud"
+},
+"services":[
+{
+"type":"DHCS",
+"name":"<as per your setup>",
+"username":"<as per your setup>",
+"password":"<as per your setup>"
+}
+]
+}
