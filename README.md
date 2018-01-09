@@ -1,4 +1,4 @@
-## Sample time series app based on Twitter data
+## Sample time series app based on Twitter data with Cassandra on [Oracle Data Hub Cloud](https://cloud.oracle.com/datahub)
 
 ![](https://cdn-images-1.medium.com/max/1000/1*cnWcLELXqYk9itGwsOz06Q.jpeg)
 
